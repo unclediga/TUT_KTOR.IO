@@ -36,5 +36,9 @@ fun Application.configureRouting() {
 	         // Update or delete an article
             }  
         }
+        static("/static") {
+            resources("static")
+        }
+
     }
 }
