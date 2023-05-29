@@ -12,7 +12,7 @@ fun Application.configureTemplating() {
     }
     routing {
         get("/html-freemarker") {
-            call.respond(FreeMarkerContent("index.ftl", mapOf("data" to IndexData(listOf(1, 2, 3))), ""))
+            call.respond(FreeMarkerContent("index_old.ftl", mapOf("data" to IndexData(listOf(1, 2, 3))), ""))
         }
     }
 }
