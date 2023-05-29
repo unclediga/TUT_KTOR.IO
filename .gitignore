@@ -1,0 +1,6 @@
+ktor-documentation 
+ktor-samples
+.idea
+.gradle
+build
+*.log
