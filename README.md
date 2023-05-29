@@ -12,6 +12,9 @@
    
     2.3.1 tutorial-website-static - [Creating a static website](https://ktor.io/docs/creating-static-website.html) Plugins : Routing, Static Content
     
+    2.3.2 tutorial-website-interactive  [Creating an interactive website](https://ktor.io/docs/creating-interactive-website.html) Used plugins: Routing, FreeMarker	
+
+3. Нужно постомтреть более сложные [Samples for Ktor "A collection of ready-to-use samples for Ktor"](https://github.com/ktorio/ktor-samples).
 
 	          
 
