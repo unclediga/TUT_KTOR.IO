@@ -10,6 +10,8 @@
 
     2.2 tutorial-http-api - [Creating HTTP APIs](https://ktor.io/docs/creating-http-apis.html) Plugins : Routing, ContentNegotiation, kotlinx.serialization
    
+    2.3.1 tutorial-website-static - [Creating a static website](https://ktor.io/docs/creating-static-website.html) Plugins : Routing, Static Content
+    
 
 	          
 
