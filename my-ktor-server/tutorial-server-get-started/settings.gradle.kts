@@ -1,0 +1,1 @@
+rootProject.name = "ru.unclediga.example.tutorial-server-get-started"
