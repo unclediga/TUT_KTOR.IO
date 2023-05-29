@@ -8,6 +8,9 @@
 
     2.1 tutorial-server-get-started - [Creating a new Ktor project](https://ktor.io/docs/intellij-idea.html) Plugins : Gradle + Routing plugin
 
+    2.2 tutorial-http-api - [Creating HTTP APIs](https://ktor.io/docs/creating-http-apis.html) Plugins : Routing, ContentNegotiation, kotlinx.serialization
+   
+
 	          
 
 
