@@ -22,7 +22,7 @@
 
    4.1 ktor-war - сделал через Ktor Project Generator (add plagins: Routing) 
 
-   4.2 ktor-war-ишп - сделал gradle init 'many modules app'
+   4.2 ktor-war-big - сделал gradle init 'many modules app'
 
 
 
