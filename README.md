@@ -19,10 +19,17 @@
 3. Нужно постомтреть более сложные [Samples for Ktor "A collection of ready-to-use samples for Ktor"](https://github.com/ktorio/ktor-samples).
 
 4. Ktor -> war-app : как втянуть в JavaEE приложение?
+ 
+    4.1 ktor-war - сделал через Ktor Project Generator (add plagins: Routing) 
 
-   4.1 ktor-war - сделал через Ktor Project Generator (add plagins: Routing) 
+    4.2 ktor-war-big - сделал gradle init 'many modules app'
 
-   4.2 ktor-war-big - сделал gradle init 'many modules app'
+5. Примеры для сборки Maven 
+
+    5.1 ktor-maven - вроде как пример через генератор Routing+Expose+H2+PostgreSQL и тестовая схема "Hello, Users, Cities"
+
+    5.2 ktor-maven-my - собственная заготовка Netty + Routing, созданный генератором [Ktor Project Generator](https://start.ktor.io/)
+        Почти аналог официального [ktor-maven-sample](https://github.com/ktorio/ktor-maven-sample) 
 
 
 
