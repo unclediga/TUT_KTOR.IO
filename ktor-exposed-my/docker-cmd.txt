@@ -1,0 +1,11 @@
+## make image 
+docker build -t ktor-expose:1.0 .
+
+## create container
+docker create --name ktor-1 ktor-expose:1.0
+
+## start container
+docker start ktor-1
+
+## start container
+docker stop ktor-1
