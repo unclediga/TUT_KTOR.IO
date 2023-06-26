@@ -19,6 +19,8 @@
         <exposed_version>0.41.1</exposed_version>
         <h2_version>2.1.214</h2_version>
 
+        <hikaricp_version>5.0.1</hikaricp_version>
+
     </properties>
     <repositories>
     </repositories>
@@ -73,6 +75,12 @@
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
             <version>${h2_version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.zaxxer</groupId>
+            <artifactId>HikariCP</artifactId>
+            <version>${hikaricp_version}</version>
         </dependency>
 
         <dependency>
