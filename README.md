@@ -14,9 +14,12 @@
     
     2.3.2 tutorial-website-interactive  [Creating an interactive website](https://ktor.io/docs/creating-interactive-website.html) Used plugins: Routing, FreeMarker	
 
-    2.3.3 tutorial-website-interactive-persistence  [Database persistence with Exposed](https://ktor.io/docs/interactive-website-add-persistence.html) Used plugins: Routing, FreeMarker + Exposed, h2database	
+    2.3.3 ktor-exposed-my  [Database persistence with Exposed](https://ktor.io/docs/interactive-website-add-persistence.html) Used plugins: Routing, FreeMarker + Exposed, h2database	
 
-3. Нужно постомтреть более сложные [Samples for Ktor "A collection of ready-to-use samples for Ktor"](https://github.com/ktorio/ktor-samples).
+    2.3.4 ktor-exposed-my  [Connection pooling and caching](https://ktor.io/docs/connection-pooling-caching.html)
+
+
+3. Нужно посмотреть более сложные [Samples for Ktor "A collection of ready-to-use samples for Ktor"](https://github.com/ktorio/ktor-samples).
 
 4. Ktor -> war-app : как втянуть в JavaEE приложение?
  
